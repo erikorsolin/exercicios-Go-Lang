@@ -39,6 +39,5 @@ func imprime_text() {
 
 func divide(x int, y int) {
 	fmt.Println("A divisão é:", x/y)
-}
-
+} */
 
